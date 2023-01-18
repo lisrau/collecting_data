@@ -1,4 +1,4 @@
-# collecting_data course Project (TBD)
+# collecting_data course
 
 This is the repository I will use for the Collecting data course.
 
